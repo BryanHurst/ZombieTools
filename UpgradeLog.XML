@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Zombie Tools">
+</Property><Property Name="Solution File" Value="C:\Users\Bryan\Desktop\Projects\ZombieTools\Zombie Tools.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Bryan\Desktop\Projects\ZombieTools\Zombie Tools.suo">
+</Property><Property Name="Date" Value="Saturday, January 14, 2012">
+</Property><Property Name="Time" Value="15:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Zombie Tools.sln" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Zombie Tools.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Zombie Tools.suo" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Zombie Tools.suo">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\ZombieTools.csproj" Description="Project file successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\ZombieTools.csproj">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\ZombieTools.csproj.user" Description="Project user file successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\ZombieTools.csproj.user">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\AttachBar.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\AttachBar.cs">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\AttachBar.Designer.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\AttachBar.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\mainForm.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\mainForm.cs">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\mainForm.Designer.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\mainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\ZombieTools.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\ZombieTools.cs">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\AttachBar.resx" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\AttachBar.resx">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\mainForm.resx" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\Main\mainForm.resx">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\ZombieTools.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ZombieTools" Source="Main\ZombieTools.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\AionMemory.csproj" Description="Project file successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\AionMemory.csproj">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Enums.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Enums.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\EntityList.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\EntityList.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Party.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Party.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\PartyMember.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\PartyMember.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Vector.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Vector.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\MemoryWalker.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\MemoryWalker.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Tools.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Tools.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\ExtensionMethods.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\ExtensionMethods.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\ILocation.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\ILocation.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Chat.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Chat.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Cube.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Cube.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Entity.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Entity.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Location.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Location.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Player.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Player.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Instanced Classes\Target.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Instanced Classes\Target.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Memory.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Memory.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Process.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Process.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\Read.cs" Description="File successfully backed up as C:\Users\Bryan\Desktop\Projects\ZombieTools\Backup\AionMemory\Read.cs">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\AionMemory.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AionMemory" Source="AionMemory\AionMemory.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Zombie Tools.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Zombie Tools.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZombieTools" Source="Main\ZombieTools.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="AionMemory" Source="AionMemory\AionMemory.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

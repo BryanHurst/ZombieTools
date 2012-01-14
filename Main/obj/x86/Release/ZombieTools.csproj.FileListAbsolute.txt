@@ -1,0 +1,8 @@
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\bin\Release\Zombie Tools.exe
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\bin\Release\AionMemory.dll
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\bin\Release\AionMemory.pdb
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\obj\x86\Release\ZombieTools.AttachBar.resources
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\obj\x86\Release\ZombieTools.mainForm.resources
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\obj\x86\Release\ZombieTools.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\ZombieTools\trunk\Main\obj\x86\Release\Zombie Tools.exe

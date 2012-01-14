@@ -1,0 +1,5 @@
+C:\Users\Bryan\Desktop\ZombieTools\trunk\AionMemory\bin\x86\Debug\AionMemory.dll
+C:\Users\Bryan\Desktop\ZombieTools\trunk\AionMemory\bin\x86\Debug\AionMemory.pdb
+C:\Users\Bryan\Desktop\ZombieTools\trunk\AionMemory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\ZombieTools\trunk\AionMemory\obj\x86\Debug\AionMemory.dll
+C:\Users\Bryan\Desktop\ZombieTools\trunk\AionMemory\obj\x86\Debug\AionMemory.pdb
